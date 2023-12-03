@@ -1,3 +1,6 @@
+#3D Calculator React Test
+Do not expect this to be updated any time soon, have plans in the future to implement full functionality when I get a lot more familiar with react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
